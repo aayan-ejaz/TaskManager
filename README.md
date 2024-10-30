@@ -34,8 +34,8 @@ Replace your_application.dart with the name of the Dart file that contains your 
 ## Usage
 Upon running the application, you'll see a menu with the following options:
 
-Task Manager Menu:
-'''-----------------------------------------
+ '''Task Manager Menu:
+-----------------------------------------
 | Option | Action                     |
 -----------------------------------------
 | 1      | Add a new task             |
