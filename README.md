@@ -34,20 +34,7 @@ Replace your_application.dart with the name of the Dart file that contains your 
 ## Usage
 Upon running the application, you'll see a menu with the following options:
 
- '''Task Manager Menu:
------------------------------------------
-| Option | Action                     |
------------------------------------------
-| 1      | Add a new task             |
-| 2      | Update a task              |
-| 3      | Delete a task              |
-| 4      | List all tasks             |
-| 5      | List completed tasks       |
-| 6      | List incomplete tasks      |
-| 7      | Toggle task completion      |
-| 8      | Save tasks to file         |
-| 0      | Exit                       |
------------------------------------------'''
+## Task Manager Menu:
 
 ## Add a new task: 
 Input the title and description of the new task.
