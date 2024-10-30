@@ -35,7 +35,7 @@ Replace your_application.dart with the name of the Dart file that contains your 
 Upon running the application, you'll see a menu with the following options:
 
 Task Manager Menu:
------------------------------------------
+'''-----------------------------------------
 | Option | Action                     |
 -----------------------------------------
 | 1      | Add a new task             |
@@ -47,7 +47,7 @@ Task Manager Menu:
 | 7      | Toggle task completion      |
 | 8      | Save tasks to file         |
 | 0      | Exit                       |
------------------------------------------
+-----------------------------------------'''
 
 ## Add a new task: 
 Input the title and description of the new task.
